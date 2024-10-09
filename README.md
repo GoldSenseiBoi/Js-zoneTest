@@ -12,6 +12,7 @@ Ce n'est qu'un petit terrain de jeu, donc ne t'attends pas à du code parfait...
 ## 🛠️ Technologies utilisées
 
 - **Anime.js** - La librairie d'animation en JS pour animer le DOM ⚡
+- **GSAP** - La librairie d'animation en JS trop stylé ⚡
 - **HTML/CSS** - Pour mettre en forme et styliser les tests 🎨
 - Un peu de fun et beaucoup d'essais/erreurs 😆
 
